@@ -1,0 +1,3 @@
+<?php //route_name_082c5dc7523d10bb758b1459d5918653
+
+return [PHP_INT_MAX, 'api_messages_get_collection'];
